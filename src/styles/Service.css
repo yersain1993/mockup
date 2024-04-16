@@ -1,0 +1,38 @@
+.section::-webkit-scrollbar {
+  width: 10px;               /* width of the entire scrollbar */
+}
+
+.section::-webkit-scrollbar-track {
+  background: #E9E5E4;        /* color of the tracking area */
+}
+
+.section::-webkit-scrollbar-thumb {
+  background-color: #dec195;    /* color of the scroll thumb */
+  border-radius: 0px;       /* roundness of the scroll thumb */
+  border: 3px solid #dec195;  /* creates padding around scroll thumb */
+}
+
+@media screen and (min-width: 1300px) {
+    .container p {
+        margin-top: 2.5rem;
+        transform: scale(1.6);
+        width: 100vh;
+    }
+
+    .section {
+        min-height: 800px;
+        overflow-x: scroll;
+    }
+}
+
+@media screen and (min-width: 768px) and (max-width: 821px) {
+    .section {
+        gap: 25px;
+    }
+}
+
+@media (min-width: 1023px) and (max-width: 1281px) {
+    .section {
+        gap :25px;
+    }
+}

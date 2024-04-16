@@ -1,0 +1,14 @@
+#root {
+  margin: 0 auto;
+  text-align: center;
+  background-color: #f8f9fa;
+  color: #464646;
+  font-family: Montserrat;
+}
+
+button:hover {
+  opacity: 0.5;
+  background-color: dark;
+  z-index:10;
+}
+

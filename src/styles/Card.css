@@ -1,0 +1,24 @@
+@media screen and (max-width: 600px) {
+
+    .card {
+        transform: scale(0.8);
+    }
+
+    div > button {
+        transform: scale(1.03);
+    }
+}
+
+@media screen and (min-width: 1300px) {
+
+    .card {
+        transform: scale(2);
+        margin-left: 160px;
+        margin-right: 160px;
+        margin-top: 220px;
+    }
+
+    div > button {
+        transform: scale(1.03);
+    }
+}

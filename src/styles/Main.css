@@ -1,0 +1,121 @@
+@media screen and (max-width: 600px) {
+    section button {
+        transform: scale(0.6);
+    }
+
+    article div > button {
+
+        transform: scale(0.6);
+    }
+}
+
+@media screen and (max-width: 341px) {
+
+    /*first article*/
+
+    article h6 {
+        font-size: 3.3vw;
+    }
+
+    article h1 {
+        font-size: 6.7vw;
+    }
+
+    article h3 {
+        font-size: 4.5vw;
+    }
+
+    article h5 {
+        font-size: 2.9vw;
+    }
+
+    article div > p {
+        font-size: 2.9vw;
+    }
+
+    section button {
+        transform: scale(0.5);
+    }
+
+    section {
+        gap: 20px;
+    }
+
+    /*second article*/
+
+    article div > h2 {
+        font-size: 4.3vw;
+    }
+
+    article div > p {
+        font-size: 3.8vw;
+    }
+
+    article div > ul {
+        font-size: 3.7vw;
+    }
+
+    article li > img {
+        width: 0.8rem;
+    }
+
+    article div > button {
+        transform: scale(0.5);
+    }
+}
+
+@media screen and (min-width: 1300px) {
+    
+    /*first article*/
+
+    article h6 {
+        font-size: 1.7vw;
+    }
+
+    article h1 {
+        font-size: 4.5vw;
+    }
+
+    article h3 {
+        font-size: 2.4vw;
+    }
+
+    article h5 {
+        font-size: 1.5vw;
+    }
+
+    article div > p {
+        font-size: 1.5vw;
+    }
+
+    section button {
+        transform: scale(1.3);
+    }
+
+    section {
+        gap: 20px;
+    }
+
+    article > button {
+        transform: scale(1.3);
+    }
+
+    /*second article*/
+
+    article div > h2 {
+        font-size: 2.3vw;
+    }
+
+    article div > p {
+        font-size: 1.7vw;
+    }
+
+    article div > ul {
+        font-size: 1.4vw;
+    }
+
+    article div > button {
+        transform: scale(1.7);
+        margin-left: 5rem;
+    }
+}

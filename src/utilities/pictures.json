@@ -1,0 +1,44 @@
+{
+    "pictures":{
+        "heroPhotoURL": "https://res.cloudinary.com/dj0vlv8zw/image/upload/v1713027684/MGL/HERO_PHOTO_zteyh9.jpg",
+        "photoSLURL": "https://res.cloudinary.com/dj0vlv8zw/image/upload/v1713027687/MGL/PHOTO_SL_axlwss.png"
+    },
+    "logos": {
+        "checkURL": "https://res.cloudinary.com/dj0vlv8zw/image/upload/v1713027683/MGL/check_aptxdl.svg",
+        "logoURL": "https://res.cloudinary.com/dj0vlv8zw/image/upload/v1713027685/MGL/logo_mgryul.png",
+        "googleButonURL":"https://res.cloudinary.com/dj0vlv8zw/image/upload/v1713027684/MGL/goolewithrating_dtglhd.png"
+    },
+    "services": [
+        {
+            "pod1": {
+                "id": 1,
+                "imgURL": "https://res.cloudinary.com/dj0vlv8zw/image/upload/v1713027689/MGL/pod1_2_ifntj4.jpg",
+                "tittle1": "HORMONAL",
+                "tittle2": "IMBALANCES",
+                "text": "GET YOUR HORMONES IN CHECK",
+                "textDetails": "Incluiding infertility, erectile dysfunction, adrenal fatigue, insomnia, lowlibido, weight again, PCOS, PMS menopause, hot flashes & night sweats. We help bring balance to men's & women's hormonal systems, incluiding the thyroid & adrenal health, using advanced testing and bioidentical hormone replacement."
+            }
+        },
+        {
+            "pod2": {
+                "id": 2,
+                "imgURL": "https://res.cloudinary.com/dj0vlv8zw/image/upload/v1713027688/MGL/pod2_2_crgf3g.jpg",
+                "tittle1": "DIABETES,",
+                "tittle2":"BLOOD PRESSURE, ETC.",
+                "text": "CONQUER CHRONIC CONDITIONS",
+                "textDetails": "Our Center offers a remote home monitoring program in which a patient can be wirelessly connected,” says Dr. Radhakrishnan. “This enables us to proactively manage a patient’s blood pressure without the need for an in-patient office visit."
+            }
+        },
+        {
+            "pod3": {
+                "id": 3,
+                "imgURL": "https://res.cloudinary.com/dj0vlv8zw/image/upload/v1713027687/MGL/pod3_2_ip1c9t.jpg",
+                "tittle1": "ANXIETY, DEPRESSION",
+                "tittle2": "& MOOD",
+                "text": "ENHANCE YOUR WELLBEING",
+                "textDetails": "Many people with adjustment disorders find treatment helpful, and they often need only brief treatment. Others, including those with persistent adjustment disorders or ongoing stress, may benefit from longer treatment. Treatments for adjustment disorders include talk therapy, medicines or both."
+            }
+        }
+    ],
+    "gradientURL": "https://res.cloudinary.com/dj0vlv8zw/image/upload/v1713027686/MGL/pod-gradient_j0oje0.png"
+}
